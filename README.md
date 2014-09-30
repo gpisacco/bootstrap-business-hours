@@ -72,7 +72,7 @@ How to get value:
 
 ```js
 	var bh=this.$('#bh').bussinesshours('value');
-	consle.log(bh)l
+	consle.log(bh);
 ```
 
 
